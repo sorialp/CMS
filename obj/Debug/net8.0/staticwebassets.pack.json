@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121_1920x400.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121_1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121_448x200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0017c372-ef09-48e2-a544-9089dce0a315\\cute-business-kids-working-on-project-together-surfing-3874121_448x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109.jpg",
+      "PackagePath": "staticwebassets\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109_1110x624.jpg",
+      "PackagePath": "staticwebassets\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109_1110x624.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109_1140x450.jpg",
+      "PackagePath": "staticwebassets\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109_1140x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\239375cb-e864-4083-944e-f248b8b1b730\\concentrated-little-kids-taking-notes-in-organizer-and-3874109_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\5043a82c-dc2c-47bc-9c77-dcd9b157db10\\person-looking-at-phone-and-at-macbook-pro-1181244.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5043a82c-dc2c-47bc-9c77-dcd9b157db10\\person-looking-at-phone-and-at-macbook-pro-1181244.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\5043a82c-dc2c-47bc-9c77-dcd9b157db10\\person-looking-at-phone-and-at-macbook-pro-1181244_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5043a82c-dc2c-47bc-9c77-dcd9b157db10\\person-looking-at-phone-and-at-macbook-pro-1181244_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\5074b677-c485-409b-89d0-419a30b0d44a\\diverse-group-of-colleagues-having-meditation-together-3860619.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5074b677-c485-409b-89d0-419a30b0d44a\\diverse-group-of-colleagues-having-meditation-together-3860619.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\5074b677-c485-409b-89d0-419a30b0d44a\\diverse-group-of-colleagues-having-meditation-together-3860619_1100x450.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5074b677-c485-409b-89d0-419a30b0d44a\\diverse-group-of-colleagues-having-meditation-together-3860619_1100x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\5074b677-c485-409b-89d0-419a30b0d44a\\diverse-group-of-colleagues-having-meditation-together-3860619_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5074b677-c485-409b-89d0-419a30b0d44a\\diverse-group-of-colleagues-having-meditation-together-3860619_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\552b6fb5-a18f-4847-a52a-2c144f245493\\bird-s-eye-view-photography-of-lighted-city-3573383.jpg",
+      "PackagePath": "staticwebassets\\uploads\\552b6fb5-a18f-4847-a52a-2c144f245493\\bird-s-eye-view-photography-of-lighted-city-3573383.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\552b6fb5-a18f-4847-a52a-2c144f245493\\bird-s-eye-view-photography-of-lighted-city-3573383_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\552b6fb5-a18f-4847-a52a-2c144f245493\\bird-s-eye-view-photography-of-lighted-city-3573383_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\552b6fb5-a18f-4847-a52a-2c144f245493\\bird-s-eye-view-photography-of-lighted-city-3573383_448x200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\552b6fb5-a18f-4847-a52a-2c144f245493\\bird-s-eye-view-photography-of-lighted-city-3573383_448x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641.jpg",
+      "PackagePath": "staticwebassets\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_1100x450.jpg",
+      "PackagePath": "staticwebassets\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_1100x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_1140x450.jpg",
+      "PackagePath": "staticwebassets\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_1140x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_1920x400.jpg",
+      "PackagePath": "staticwebassets\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\561db579-617e-4d10-a063-50571e9f67e6\\smiling-woman-working-in-office-with-coworkers-3860641_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\8db9fcbc-e956-43e2-a54b-6d473cd37bf5\\cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8db9fcbc-e956-43e2-a54b-6d473cd37bf5\\cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\8db9fcbc-e956-43e2-a54b-6d473cd37bf5\\cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_1100x450.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8db9fcbc-e956-43e2-a54b-6d473cd37bf5\\cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_1100x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\8db9fcbc-e956-43e2-a54b-6d473cd37bf5\\cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8db9fcbc-e956-43e2-a54b-6d473cd37bf5\\cheerful-diverse-colleagues-working-on-laptops-in-workspace-3860809_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final_1110.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final_1110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final_448x200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b55b8a62-5d36-4596-bee8-9d63902c2fe4\\glb-newbuilding-final_448x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730_446x220.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730_446x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730_540x200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dce8e5bb-260f-4c6b-b536-d51759c84872\\man-in-red-jacket-standing-on-the-stairs-4390730_540x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_1920x400.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_1920x400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_210x160.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_210x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_446x220.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_446x220.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_448x200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_448x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Peter\\CMS\\wwwroot\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_540x200.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6f7b74d-6ea0-42d2-a5e4-d85c347bc70f\\woman-in-blue-long-sleeve-dress-standing-beside-brown-wooden-4100766_540x200.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CMS.props",
+      "PackagePath": "build\\CMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CMS.props",
+      "PackagePath": "buildMultiTargeting\\CMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CMS.props",
+      "PackagePath": "buildTransitive\\CMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
